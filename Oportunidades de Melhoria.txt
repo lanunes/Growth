@@ -1,0 +1,6 @@
+Oportunidades de melhorias
+1) Atribuir ids aos campos das paginas
+
+2) Página Faça o seu cadastro 
+-> não retorna sucesso nem falha no cadastro
+-> não retorna email já cadastrado
